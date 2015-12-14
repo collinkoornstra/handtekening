@@ -2,19 +2,28 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
-	<table>
-		<tr width="700"> <!-- Groet regel -->
-			<td></td>
+<style>
+	html { font-family: sans-serif; }
+</style>
+	<table width="700" >
+		<tr> <!-- Groet regel -->
+			<td colspan="3" style="padding-bottom: 10px;">{{GROET}} , </td>
+		</tr>
+		<tr>
+			<td colspan="3" style="border-bottom: 1px solid {{TOPKLEUR}}; padding-bottom: 5px;">{{NAAM}}  </td>
 		</tr> <!-- /groet regel -->
 
-		<tr width="700"> <!-- Gegevens -->
-			<td width="33.3%"></td>
-			<td width="33.3%"></td>
-			<td width="33.3%"></td>
+		<tr> <!-- Gegevens -->
+			<td width="33.3%">a</td>
+			<td width="33.3%">a</td>
+			<td width="33.3%">a</td>
 		</tr> <!-- /gegevens -->
-
-		<tr width="700"> <!-- footer -->
-			<td></td>
+		<tr> <!-- Social Media -->
+			<td colspan="3"></td>
+		</tr> <!-- /Social Media -->
+		
+		<tr style="background-color: {{FOOTERKLEUR}}; height: 5px;"> <!-- footer -->
+			<td colspan="3"></td>
 		</tr> <!-- /footer -->
 	</table> 
 </body>
