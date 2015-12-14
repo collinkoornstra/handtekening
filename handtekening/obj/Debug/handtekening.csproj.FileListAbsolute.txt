@@ -1,1 +1,14 @@
 C:\Users\Collin\Documents\GitHub\handtekening\handtekening\bin\Debug\handtekening.exe.config
+C:\Users\Collin\Documents\GitHub\handtekening\handtekening\bin\Debug\handtekening.exe
+C:\Users\Collin\Documents\GitHub\handtekening\handtekening\bin\Debug\handtekening.pdb
+C:\Users\Collin\Documents\GitHub\handtekening\handtekening\obj\Debug\handtekening.csprojResolveAssemblyReference.cache
+C:\Users\Collin\Documents\GitHub\handtekening\handtekening\obj\Debug\MainWindow.g.cs
+C:\Users\Collin\Documents\GitHub\handtekening\handtekening\obj\Debug\App.g.cs
+C:\Users\Collin\Documents\GitHub\handtekening\handtekening\obj\Debug\handtekening_MarkupCompile.cache
+C:\Users\Collin\Documents\GitHub\handtekening\handtekening\obj\Debug\handtekening_MarkupCompile.lref
+C:\Users\Collin\Documents\GitHub\handtekening\handtekening\obj\Debug\MainWindow.baml
+C:\Users\Collin\Documents\GitHub\handtekening\handtekening\obj\Debug\handtekening.g.resources
+C:\Users\Collin\Documents\GitHub\handtekening\handtekening\obj\Debug\handtekening.Properties.Resources.resources
+C:\Users\Collin\Documents\GitHub\handtekening\handtekening\obj\Debug\handtekening.csproj.GenerateResource.Cache
+C:\Users\Collin\Documents\GitHub\handtekening\handtekening\obj\Debug\handtekening.exe
+C:\Users\Collin\Documents\GitHub\handtekening\handtekening\obj\Debug\handtekening.pdb
