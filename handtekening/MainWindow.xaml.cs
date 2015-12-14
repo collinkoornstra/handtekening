@@ -24,5 +24,23 @@ namespace handtekening
         {
             InitializeComponent();
         }
+
+        private void Thema1_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            var win2 = new Window();
+            win2.Show();
+        }
+
+        private void Thema2_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            var win2 = new Window();
+            win2.Show();
+        }
+
+        private void Thema3_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            var win2 = new Window();
+            win2.Show();
+        }
     }
 }

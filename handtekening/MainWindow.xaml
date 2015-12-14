@@ -7,11 +7,11 @@
         mc:Ignorable="d"
         Title="Select Theme" Height="366.278" Width="705">
     <Grid>
-        <Canvas HorizontalAlignment="Left" Height="240" Margin="25,25,0,0" VerticalAlignment="Top" Width="200" Background="#FF762323"/>
+        <Canvas HorizontalAlignment="Left" Height="240" Margin="25,25,0,0" VerticalAlignment="Top" Width="200" Background="#FF762323" MouseDown="Thema1_MouseDown" Tag="Thema1"/>
         <Label x:Name="label" Content="Thema 1" HorizontalAlignment="Left" Margin="25,282,0,0" VerticalAlignment="Top" Width="200" Background="#FFA62727"/>
-        <Canvas HorizontalAlignment="Left" Height="240" Margin="250,25,0,0" VerticalAlignment="Top" Width="200" Background="#FF762323"/>
+        <Canvas HorizontalAlignment="Left" Height="240" Margin="250,25,0,0" VerticalAlignment="Top" Width="200" Background="#FF762323" MouseDown="Thema2_MouseDown"/>
         <Label x:Name="label_Copy" Content="Thema 1" HorizontalAlignment="Left" Margin="250,282,0,0" VerticalAlignment="Top" Width="200" Background="#FFA62727"/>
-        <Canvas HorizontalAlignment="Left" Height="240" Margin="475,25,0,0" VerticalAlignment="Top" Width="200" Background="#FF762323"/>
+        <Canvas HorizontalAlignment="Left" Height="240" Margin="475,25,0,0" VerticalAlignment="Top" Width="200" Background="#FF762323" MouseDown="Thema3_MouseDown"/>
         <Label x:Name="label_Copy1" Content="Thema 1" HorizontalAlignment="Left" Margin="475,282,0,0" VerticalAlignment="Top" Width="200" Background="#FFA62727"/>
 
     </Grid>
